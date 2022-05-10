@@ -3,7 +3,7 @@
 ### Feladatok
 
 1. Olvasssa be az adatokat egy megfelelő adatstruktúrába!
-2. Határozza meg, hogy autó adata található az adatok között! Az eredményt jelenítse meg a következő képpen:
+2. Határozza meg, hogy hány autó adata található az adatok között! Az eredményt jelenítse meg a következő képpen:
 ```
 2. feladat
 Autók száma: x db.
